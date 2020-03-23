@@ -1,0 +1,16 @@
+{
+    "links": [
+        {
+            "type": "github",
+            "title": "GitHub",
+            "icon": "fa-github",
+            "url": "https://github.com/Awinja-j"
+        },
+        {
+            "type": "devto",
+            "title": "DEV",
+            "icon": "fa-dev",
+            "url": "https://dev.to/awinja_j"
+        }
+    ]
+}
